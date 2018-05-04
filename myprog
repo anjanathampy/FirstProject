@@ -6,3 +6,7 @@ Hello World
 hai
 hello
 
+voi rectanglearea()
+{
+cout<<"area"
+}
